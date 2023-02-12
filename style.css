@@ -1,1 +1,18 @@
-
+body{
+    background: lightgrey;
+    font-family: sans-serif;
+}
+h1{
+    background: black;
+    color: white;
+}
+header{
+    background: black;
+    color: white;
+}
+.rat{
+text-align: center;
+}
+img{
+margin: 30px;
+}
